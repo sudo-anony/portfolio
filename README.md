@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Piqoisty](app.piqoisty.com)
+- 🔭 I’m currently working on [Piqoisty](https://app.piqoisty.com)
 
-- 🌱 I’m currently learning **Rails , Angular , React , Serverless Programming**
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/software-engineer-/](https://www.linkedin.com/in/software-engineer-/)
 
-- 💬 Ask me about **Rails , Angular , React , Serverless Programming**
+- 💬 Ask me about **Rails , Angular**
 
 - 📫 How to reach me **aliasghar1101214@icloud.com**
 
